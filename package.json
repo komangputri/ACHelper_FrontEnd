@@ -47,12 +47,16 @@
     "whatwg-fetch": "1.0.0"
   },
   "dependencies": {
+    "axios": "^0.17.1",
+    "bootstrap": "^4.0.0-beta.2",
     "express": "^4.14.0",
+    "firebase": "^4.6.2",
     "morgan": "^1.7.0",
     "node-sass": "^4.1.1",
     "react": "^15.4.1",
     "react-dom": "^15.4.1",
     "react-router": "^3.0.0",
+    "reactstrap": "^5.0.0-alpha.4",
     "sass-loader": "^4.1.1"
   },
   "scripts": {
